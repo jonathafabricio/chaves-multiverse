@@ -1,0 +1,93 @@
+[
+  {
+    "id": "professor-girafales",
+    "name": "Professor Girafales",
+    "details": {
+      "fullName": "Rubén Aguirre Fuentes",
+      "birthday": "1934-06-16",
+      "homeland": "Coahuila, México",
+      "firstApparition": "1973",
+      "firstEpisode": "Pintores Amadores",
+      "lastApparition": "1992",
+      "lastEpisode": "Aula de Inglês"
+    }
+  },
+  {
+    "id": "dona-florinda",
+    "name": "Dona Florinda",
+    "details": {
+      "fullName": "Florinda Meza",
+      "birthday": "1949-02-09",
+      "homeland": "Juchipila, México",
+      "firstApparition": "1972",
+      "firstEpisode": "A festa da boa vizinhaça",
+      "lastApparition": "1991",
+      "lastEpisode": "Americas e fenômenos"
+    }
+  },
+  {
+    "id": "quico",
+    "name": "Quico",
+    "details": {
+      "fullName": "Carlos Villagrán",
+      "birthday": "1944-01-13",
+      "homeland": "Cidade do México, México",
+      "firstApparition": "1971",
+      "firstEpisode": "Ladrão que rouba ladrão",
+      "lastApparition": "1978",
+      "lastEpisode": "Boas Festas"
+    }
+  },
+  {
+    "id": "chaves",
+    "name": "Chaves",
+    "details": {
+      "fullName": "Roberto Mario Gómez y Bolaños",
+      "birthday": "1929-02-22",
+      "homeland": "Cidade do México, México",
+      "firstApparition": "1972",
+      "firstEpisode": "Remédio Duro de Engolir",
+      "lastApparition": "1984",
+      "lastEpisode": "A Máquina de Lavar"
+    }
+  },
+  {
+    "id": "chiquinha",
+    "name": "Chiquinha",
+    "details": {
+      "fullName": "María Antonieta de las Nieves",
+      "birthday": "1949-12-23",
+      "homeland": "México",
+      "firstApparition": "1971",
+      "firstEpisode": "Ladrão que rouba ladrão",
+      "lastApparition": "1980",
+      "lastEpisode": "A máquina de lavar"
+    }
+  },
+  {
+    "id": "seu-madruga",
+    "name": "Seu Madruga",
+    "details": {
+      "fullName": "Ramón Valdés",
+      "birthday": "1924-09-02",
+      "homeland": "Cidade do México, México",
+      "firstApparition": "1971",
+      "firstEpisode": "Remédio Duro de Engolir",
+      "lastApparition": "1982",
+      "lastEpisode": "Que Bonita Sua Roupa"
+    }
+  },
+  {
+    "id": "dona-clotilde",
+    "name": "Dona Clotilde",
+    "details": {
+      "fullName": "Angelines Fernandéz",
+      "birthday": "1924-06-31",
+      "homeland": "Madrid, Espanha",
+      "firstApparition": "1973",
+      "firstEpisode": "Quem canta, seus males espanca",
+      "lastApparition": "1981",
+      "lastEpisode": "A Máquina de Lavar"
+    }
+  }
+]

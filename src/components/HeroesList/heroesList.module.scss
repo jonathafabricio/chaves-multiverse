@@ -1,0 +1,66 @@
+@import "@/app/variables.scss";
+
+.heroes {
+  align-items: flex-end;
+  display: flex;
+  justify-content: space-between;
+  max-width: calc($max-width - 700px);
+  position: absolute;
+  top: 30%;
+  width: 100%;
+
+  @media screen and (min-width: $max-width) {
+    max-width: calc($max-width - 400px);
+    top: 50%;
+  }
+}
+
+.imageContainer {
+  cursor: pointer;
+  position: relative;
+
+  img {
+    height: 100%;
+    object-fit: contain;
+    object-position: bottom;
+    width: 100%;
+  }
+
+  &.professor-girafales { 
+    height: $professor-girafales-height;
+  }
+
+  &.dona-florinda {
+    height: $dona-florinda-height;
+  }
+
+  &.quico {
+    height: $quico-height;
+  }
+
+  &.chaves {
+    height: $chaves-height;
+  }
+
+  &.chiquinha {
+    height: $chiquinha-height;
+  }
+
+  &.seu-madruga {
+    height: $seu-madruga-height;
+  }
+
+  &.dona-clotilde {
+    height: $dona-clotilde-height;
+  }
+}
+
+.title {
+  font-size: 26vw;
+  margin: 0;
+  margin-top: -2rem;
+
+  @media screen and (min-width: $max-width) {
+    font-size: 30rem;
+  }
+}
